@@ -38,6 +38,8 @@ Full queries available in `sql/02_data_analysis.sql`.
 ## Dashboard Preview
 ![Café Sales Dashboard](cafe_sales_dashboard.PNG)
 
+🔗 [View Live Interactive Dashboard](https://app.powerbi.com/groups/me/reports/c33d68b1-b98b-45ad-b07c-1f2b9a12f306?ctid=2ed5574c-f9ba-4426-9658-e477ad7439db&pbi_source=linkShare)
+
 The dashboard consolidates all findings into a single-page view, featuring KPI cards, 
 product performance charts, revenue trend by day, and operational breakdowns by location 
 and payment method. Interactive slicers allow filtering by Season, Month, Payment Method, 
