@@ -19,9 +19,10 @@ revenue distribution, and customer behavior across seasons, days, and locations.
 
 ## Project Structure
 ├── README.md
-└── sql/
-    ├── 01_data_cleaning_queries.sql
-    └── 02_Analysing.sql
+├── 01_data_cleaning_queries.sql
+├── 02_Analysing.sql
+├── cafe_sales_dashboard.PNG
+└── dirty_cafe_sales_raw.csv
 
 ## Data Cleaning Process
 The raw dataset contained missing values, "ERROR"/"UNKNOWN" placeholders, and inconsistent entries across several columns. Key steps included:
