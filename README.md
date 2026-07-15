@@ -36,7 +36,7 @@ Full queries available in `sql/01_data_cleaning.sql`.
 Full queries available in `sql/02_data_analysis.sql`.
 
 ## Dashboard Preview
-![Café Sales Dashboard](images/cafe_sales_dashboard.png)
+![Café Sales Dashboard](images/cafe_sales_dashboard.PNG)
 
 The dashboard consolidates all findings into a single-page view, featuring KPI cards, 
 product performance charts, revenue trend by day, and operational breakdowns by location 
