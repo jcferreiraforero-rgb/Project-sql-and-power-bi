@@ -10,7 +10,7 @@ This project involves cleaning a messy, real-world-style café sales dataset and
 
 ## Tools Used
 - MySQL Workbench (data cleaning & analysis)
-- Power BI (visualization — in progress)
+- Power BI (visualization — iteractive dashbpard)
 
 ## Project Structure
 ├── README.md
@@ -35,9 +35,17 @@ Full queries available in `sql/01_data_cleaning.sql`.
 
 Full queries available in `sql/02_data_analysis.sql`.
 
+## Dashboard Preview
+![Café Sales Dashboard](images/cafe_sales_dashboard.png)
+
+The dashboard consolidates all findings into a single-page view, featuring KPI cards, 
+product performance charts, revenue trend by day, and operational breakdowns by location 
+and payment method. Interactive slicers allow filtering by Season, Month, Payment Method, 
+and Location.
+
 ## Next Steps
-- Connect cleaned dataset to Power BI
-- Build a dashboard covering: overview KPIs, product performance, and operational breakdown (location, payment method, day of week)
+- Add Python analysis to complement SQL findings
+- Publish dashboard to Power BI Service for online viewing
 
 ## Author
 Juan Ferreira — Junior Data Analyst Portfolio Project
