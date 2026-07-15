@@ -48,4 +48,5 @@ and Location.
 - Publish dashboard to Power BI Service for online viewing
 
 ## Author
-Juan Ferreira — Junior Data Analyst Portfolio Project
+Juan Ferreira — Data Analyst Portfolio Project
+[LinkedIn](www.linkedin.com/in/juan-ferreira-231122315) | [GitHub](https://github.com/jcferreiraforero-rgb)
