@@ -10,7 +10,7 @@ This project involves cleaning a messy, real-world-style café sales dataset and
 
 ## Tools Used
 - MySQL Workbench (data cleaning & analysis)
-- Power BI (visualization — iteractive dashbpard)
+- Power BI (visualization — iteractive dashboard)
 
 ## Project Structure
 ├── README.md
