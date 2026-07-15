@@ -7,6 +7,7 @@ This project involves cleaning a messy, real-world-style café sales dataset and
 - **Source:** Synthetic café sales transaction data
 - **Records:** ~10,000 transactions
 - **Columns:** Transaction ID, Item, Quantity, Price Per Unit, Total Spent, Payment Method, Location, Transaction Date
+- **Raw dataset:** [dirty_cafe_sales_raw.csv](dirty_cafe_sales_raw.csv)
 
 ## Tools Used
 - MySQL Workbench (data cleaning & analysis)
