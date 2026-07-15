@@ -49,4 +49,4 @@ and Location.
 
 ## Author
 Juan Ferreira — Data Analyst Portfolio Project
-[LinkedIn](www.linkedin.com/in/juan-ferreira-231122315) | [GitHub](https://github.com/jcferreiraforero-rgb)
+[LinkedIn](www.linkedin.com/in/juan-ferreira-110106-forero) | [GitHub](https://github.com/jcferreiraforero-rgb)
