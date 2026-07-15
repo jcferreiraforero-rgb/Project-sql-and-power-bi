@@ -1,7 +1,11 @@
 # Café Sales — Data Cleaning & Analysis
 
 ## Overview
-This project involves cleaning a messy, real-world-style café sales dataset and performing exploratory analysis to uncover business insights, using MySQL Workbench. The next phase will connect the cleaned data to Power BI for visualization.
+This project covers the full data analytics workflow applied to a real-world-style 
+café sales dataset — from raw messy data to an interactive business dashboard. 
+Using MySQL Workbench for data cleaning and exploratory analysis, and Power BI 
+for visualization, the project uncovers key insights about product performance, 
+revenue distribution, and customer behavior across seasons, days, and locations.
 
 ## Dataset
 - **Source:** Synthetic café sales transaction data
